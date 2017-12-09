@@ -1,6 +1,8 @@
 ## Minecart XOR Calculator
 
 ![Front view](./front.jpg "Front view")
+![Top view](./top2.jpg "Top view")
+![Inside view](./in.jpg "Inside view")
 
 https://www.planetminecraft.com/project/minecart-xor/
 
