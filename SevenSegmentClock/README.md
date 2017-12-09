@@ -1,6 +1,7 @@
 ##Seven-segment Miencart Clock
 
 ![overview](./view.jpg "overview")
+![front](./front.jpg "front")
 
 https://www.youtube.com/watch?v=8hOJK7OJ-54
 
