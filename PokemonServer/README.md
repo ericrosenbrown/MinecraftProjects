@@ -4,7 +4,7 @@
 
 ![Golden rod](./goldenrod.jpg)
 
-I was the founder and administrator of the Pokemon Server.
+I was the founder and an administrator of the Pokemon Server.
 
 Videos: https://www.youtube.com/watch?v=b1Q7INA8xHk
 
