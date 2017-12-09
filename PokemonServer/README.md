@@ -1,6 +1,6 @@
 ## Pokemon Server
 
-![anne](./anne.jpg)
+![SS Aqua](./ssaqua.jpg)
 
 I was the founder and administrator of the Pokemon Server.
 
