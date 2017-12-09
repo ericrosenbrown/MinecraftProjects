@@ -1,5 +1,9 @@
 ## Minecart XOR Calculator
 
+![Front view](./front.jpg "Front view")
+
+https://www.planetminecraft.com/project/minecart-xor/
+
 I made a new way to use mine-carts to make logic gates. This specific logic gate of minecarts is the XOR gate.
 
 In my previous project, I only used OR and ANE gates to make my calculator work. I devised a way so now I can use mine-carts for my XOR gates. The basic idea is that when one input is on, it powers one cart and it goes down the hill and lights the output. But when two are on, the power cancels out, and it does not go down the hill at all.
