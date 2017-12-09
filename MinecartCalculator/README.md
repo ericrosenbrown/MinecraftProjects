@@ -1,5 +1,7 @@
 ## Minecart Calculator
 
+![Minecart Calculator](./top.jpg)
+
 https://www.youtube.com/watch?v=Erd0ZOB2Rn8
 
 This is a 4-cit calculator that runs more on minecarts rather than redstone logic. The minecarts are used for the logic gates rather than the average redstone gates. I believe it works, but there may be a few bugs that I will work out.
